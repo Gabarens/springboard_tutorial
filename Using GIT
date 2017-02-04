@@ -1,0 +1,3 @@
+from IPython.display import HTML
+HTML('<iframe src=http://kbroman.org/github_tutorial/></iframe>')
+javascript:top.location="http://kbroman.org/github_tutorial/?"+document.URL
